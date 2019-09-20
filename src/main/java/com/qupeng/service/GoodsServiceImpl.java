@@ -1,4 +1,4 @@
-package com.qupeng.service.impl;
+package com.qupeng.service;
 
 
 import com.qupeng.mapper.GoodsMapper;
